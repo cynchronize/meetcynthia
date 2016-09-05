@@ -1,0 +1,47 @@
+body
+{
+
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+
+}
+
+#container
+{
+
+	position: relative;
+	top: 250px;
+	font-size: 20pt;
+	font-family: 'Open Sans', sans-serif;
+	color: #848484;
+	text-align: center;
+	border-bottom: 2px solid #B8CD92;
+	padding-bottom: 15px;
+	
+}
+
+#container2
+{
+
+	position: relative;
+	top: 280px;
+	font-size: 16pt;
+	font-family: 'Open Sans', sans-serif;
+	color: #848484;
+	text-align: center;
+	
+}
+
+a, a:link, a:active, a:visited {
+	
+	text-decoration: none;
+	color: #848484;
+	
+}
+
+a:hover {
+	
+	text-decoration: underline;
+	
+}
