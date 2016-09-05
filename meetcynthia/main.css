@@ -1,0 +1,65 @@
+body
+{
+
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+.door
+{
+	position: absolute;
+	width: 25%;
+	height: 20px;
+	top: 20%;
+	font-size: 20pt;
+	color: #848484;
+	text-align: center;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	margin: 1px;
+}
+
+.door:hover
+{
+
+	background-color: #848484;
+	color: #FFFFFF;
+
+}
+
+#left_door
+{
+
+	border-right: 2px solid #976FAD;
+	left: 25%;
+	margin-right: 5px;
+	padding-right: 5px;
+	
+}
+
+#right_door
+{
+
+	border-left: 2px solid #7ACCC0;
+	left: 50%;
+	margin-left: 10px;
+	padding-left: 5px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

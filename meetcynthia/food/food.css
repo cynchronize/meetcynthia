@@ -1,0 +1,21 @@
+body
+{
+
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+
+}
+
+#container
+{
+
+	position: relative;
+	top: 250px;
+	font: 20pt century gothic;
+	color: #848484;
+	text-align: center;
+	border-bottom: 2px solid #B8CD92;
+	padding-bottom: 15px;
+	
+}
