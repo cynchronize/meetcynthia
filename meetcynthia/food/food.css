@@ -4,6 +4,7 @@ body
 	margin: 0px;
 	padding: 0px;
 	height: 100%;
+	font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -12,7 +13,7 @@ body
 
 	position: relative;
 	top: 250px;
-	font: 20pt century gothic;
+	font: 20pt;
 	color: #848484;
 	text-align: center;
 	border-bottom: 2px solid #B8CD92;
